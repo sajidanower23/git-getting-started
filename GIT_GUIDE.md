@@ -129,4 +129,3 @@ Fill in the name and description fields and create the repository as private.
 This is where our local repository will be pushing (uploading) code to,
 and pulling (downloading) code from, but we haven't told our local
 repository about it yet. We will, soon.
-
